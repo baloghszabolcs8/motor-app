@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MotorApp Telemetry</string>
+    <string name="tab_telemetry">Telemetry</string>
+    <string name="tab_map">Map &amp; Ride</string>
+    <string name="tab_hud">HUD Mode</string>
+
+    <string name="label_lean_angle">Lean Angle</string>
+    <string name="direction_left">LEFT</string>
+    <string name="direction_right">RIGHT</string>
+    <string name="direction_center">CENTER</string>
+
+    <string name="max_left">Max Left</string>
+    <string name="max_right">Max Right</string>
+    <string name="label_g_force">G-Force (Accel/Brake)</string>
+    <string name="peak_g">Peak G</string>
+    <string name="label_speed">Speed</string>
+
+    <string name="btn_calibrate_zero">Calibrate / Reset (0°)</string>
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MotorApp Telemetria</string>
+    <string name="tab_telemetry">Telemetria</string>
+    <string name="tab_map">Térkép &amp; Csoport</string>
+    <string name="tab_hud">HUD Mód</string>
+
+    <string name="label_lean_angle">Dőlésszög</string>
+    <string name="direction_left">BALRA</string>
+    <string name="direction_right">JOBBRA</string>
+    <string name="direction_center">KÖZÉPEN</string>
+
+    <string name="max_left">Max Bal</string>
+    <string name="max_right">Max Jobb</string>
+    <string name="label_g_force">G-Erő (Gyorsítás / Fékezés)</string>
+    <string name="peak_g">Csúcs G</string>
+    <string name="label_speed">Sebesség</string>
+
+    <string name="btn_calibrate_zero">Nullázás / Kalibrálás (0°)</string>
+</resources>
